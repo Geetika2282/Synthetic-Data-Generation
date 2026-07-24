@@ -1,0 +1,468 @@
+question,answer
+What is the purpose of the C-CARES Portal?,"It enables CMPFO and its regional offices to process and track claims of members' w.r.t. Provident Fund, Pension and PF Advance."
+What information is available to employees through the C-CARES Portal?,Their PF balances and the status of their claims.
+What is the significance of the C-CARES Portal?,It brings down the burden of manual claim settlement of the employee by CMPFO and digitally makes available all information pertaining to employees and their claims.
+What does the C-CARES Portal offer to employers and employees?,Claims-related services through APIs provided within the portal.
+What is the C-CARES Portal's purpose in bridging the gap between employers and employees?,It offers transparency in the CMPFO processes by enabling members to view their PF balances online and track the processing of claims.
+What are the functionalities of the Claims Settlement Sub-system?,"Claim Submission by the colliery, Claim Verification by colliery officials, Claim Processing by RO & Claim Approval by RH."
+What is the benefit of the Claims Settlement Sub-system?,It highly improves the efficiency of the Claim Settlement process making it faster.
+What feature of the C-CARES Portal makes the process transparent and responsive?,The facility to track the status of the claim by the member.
+What is the primary objective of the Officers' Manual?,To facilitate convenient and efficient access to the Claims Settlement Sub-system of C-CARES for the officers of CMPFO and its stakeholders.
+What does the Officers' Manual provide?,Step-by-step guidelines for the CMPFO and CIL officers pertaining to the Claim Settlement process.
+What functionalities have been implemented on the C-CARES Portal?,"Officer, Employee, and Claim Settlement Sub-system functionalities."
+What is the role of the C-CARES Portal in the Claim Settlement process?,It enables the officers to access the Claims Settlement Sub-system and facilitate the process.
+What is the benefit of the C-CARES Portal's single access point for CMPFO and its regional offices?,It enables them to access the employees' database and offer claims-related services.
+What is the purpose of the Data Repositories in the C-CARES Portal?,To fetch the data and serve user's request through APIs.
+What is the role of the CIL Subsidiaries in the C-CARES Portal?,They can access the employees' database and offer claims-related services.
+What is the benefit of the C-CARES Portal's transparency in CMPFO processes?,It enables members to view their PF balances online and track the processing of claims.
+What is the purpose of the C-CARES Portal's APIs?,To interact with the Data Repositories and fetch the data to serve user's request.
+What is the role of the Officer in the C-CARES Portal?,To access the Claims Settlement Sub-system and facilitate the process.
+What is the benefit of the C-CARES Portal's facility to track the status of the claim by the member?,It makes the process transparent and responsive.
+What is the purpose of the C-CARES Portal's step-by-step guidelines?,To facilitate convenient and efficient access to the Claims Settlement Sub-system.
+What is the role of the CIL and its subsidiaries in the C-CARES Portal?,They can access the employees' database and offer claims-related services.
+What is the benefit of the C-CARES Portal's single access point for CIL Subsidiaries?,It enables them to access the employees' database and offer claims-related services.
+What is the purpose of the C-CARES Portal's Data Repositories?,To fetch the data and serve user's request through APIs.
+What is the role of the CMPFO in the C-CARES Portal?,"To process and track claims of members' w.r.t. Provident Fund, Pension and PF Advance."
+What is the benefit of the C-CARES Portal's transparency in CMPFO processes?,It enables members to view their PF balances online and track the processing of claims.
+What is the purpose of the C-CARES Portal's APIs?,To interact with the Data Repositories and fetch the data to serve user's request.
+What is the role of the Employee in the C-CARES Portal?,To view their PF balances and the status of their claims.
+What is the benefit of the C-CARES Portal's facility to track the status of the claim by the member?,It makes the process transparent and responsive.
+What is the purpose of the C-CARES Portal's step-by-step guidelines?,To facilitate convenient and efficient access to the Claims Settlement Sub-system.
+What is the role of the C-CARES Portal in the Claim Settlement process?,It enables the officers to access the Claims Settlement Sub-system and facilitate the process.
+What is the benefit of the C-CARES Portal's single access point for CMPFO and its regional offices?,It enables them to access the employees' database and offer claims-related services.
+What is the purpose of the C-CARES Portal's Data Repositories?,To fetch the data and serve user's request through APIs.
+What is the role of the CIL Subsidiaries in the C-CARES Portal?,They can access the employees' database and offer claims-related services.
+What is the benefit of the C-CARES Portal's transparency in CMPFO processes?,It enables members to view their PF balances online and track the processing of claims.
+What is the purpose of the C-CARES Portal's APIs?,To interact with the Data Repositories and fetch the data to serve user's request.
+What is the role of the Officer in the C-CARES Portal?,To access the Claims Settlement Sub-system and facilitate the process.
+What is the benefit of the C-CARES Portal's facility to track the status of the claim by the member?,It makes the process transparent and responsive.
+What is the purpose of the C-CARES Portal's step-by-step guidelines?,To facilitate convenient and efficient access to the Claims Settlement Sub-system.
+What is the role of the C-CARES Portal in the Claim Settlement process?,It enables the officers to access the Claims Settlement Sub-system and facilitate the process.
+What is the benefit of the C-CARES Portal's single access point for CIL Subsidiaries?,It enables them to access the employees' database and offer claims-related services.
+What is the purpose of the C-CARES Portal's Data Repositories?,To fetch the data and serve user's request through APIs.
+Who are the officers of CMPFO and its stakeholders?,CMPFO and its stakeholders including the CIL Subsidiaries.
+What is the purpose of the document?,The document provides the step-by-step guidelines for the CMPFO and CIL officers pertaining to the Claim Settlement process.
+What functionalities have been implemented on the C-CARES Portal?,"Officer Enrolment & Login, Enrolment of an officer on C-CARES Portal, Login for CMPFO/CC officials, Forgot Password for Officers, Change Password for Officers, Manage Members Master Profile, View Members’ profile, Update Members’ profile, Add/Update Family Members’ profile, PF/Pension Claim Settlement, Submit PF/Pension Claim by the colliery, Hierarchical Claim Verification, Claim Approval and Confirmation, Advance Claim Settlement, Submit PF Advance Claim by the colliery, Hierarchical Claim Verification, Claim Approval and Confirmation."
+How can users contact CMPFO for grievances?,users are advised to contact on grievance@cmpfo.gov.in
+How can users contact CMPFO for other queries/information?,users are advised to contact on support@cmpfo.gov.in
+What is the role of the Regional Head (RH) in the Claims Portal?,Regional Head (RH) are provided with a pre-defined Login ID and are required to enrol to the portal to create the password.
+What functionalities are available to the Regional Head (RH) after logging into their account?,"Create New Role, Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement, View Ledger, Create New Role"
+How can the Regional Head (RH) assign a role to an officer?,"The RH can select an officer name from the Select Officer drop down list, choose one role (under Select Role drop down) at a time, and click on Assign to assign the particular role to the selected officer."
+What happens after a role has been assigned to an officer?,"A mail is sent to his/her Email ID containing the Login ID, and the officer can now enrol himself/herself under the Officer Enrolment tab on the home page using the Login ID received in the email."
+What can the Regional Head (RH) view using the Search Member option?,"member details by entering any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What are the tabs available under PF Settlement?,"Received, Processed, Returned, Settled, Revoke"
+Who can submit PF/Pension Claim by the colliery?,the colliery
+What is the purpose of Hierarchical Claim Verification?,Claim Verification
+What is the purpose of Claim Approval and Confirmation?,Claim Approval and Confirmation
+How can an officer enrol himself/herself on the C-CARES Portal?,using the Login ID received in the email
+What is the purpose of Manage Members Master Profile?,to manage member profiles
+What is the purpose of View Members’ profile?,to view member profiles
+What is the purpose of Update Members’ profile?,to update member profiles
+What is the purpose of Add/Update Family Members’ profile?,to add or update family member profiles
+What is the purpose of PF/Pension Claim Settlement?,to settle PF/Pension claims
+What is the purpose of Advance Claim Settlement?,to settle advance claims
+How can an officer change their password?,by clicking on Change Password for Officers
+What is the purpose of Forgot Password for Officers?,to reset passwords for officers
+What is the purpose of Officer Enrolment & Login?,to enrol and login officers
+Who maintains the contents of this website?,CMPFO
+What are the contact email addresses for CMPFO?,"grievance@cmpfo.gov.in, support@cmpfo.gov.in"
+What is the purpose of the C-CARES Portal?,"to provide a platform for officers to enrol and manage member profiles, settle claims, and perform other tasks"
+What is the role of the Regional Head (RH) in the C-CARES Portal?,"to assign roles to officers, search member profiles, and perform other tasks"
+How can an officer login to their account?,by clicking on Officer Login under the Login tab
+What is the purpose of the Claims Portal?,to provide a platform for officers to settle claims and perform other tasks
+What are the functionalities available to the Regional Head (RH) in the Claims Portal?,"Create New Role, Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement, View Ledger, Create New Role"
+How can the Regional Head (RH) assign a role to an officer in the Claims Portal?,"by selecting an officer name from the Select Officer drop down list, choosing one role (under Select Role drop down) at a time, and clicking on Assign to assign the particular role to the selected officer"
+What happens after a role has been assigned to an officer in the Claims Portal?,"A mail is sent to his/her Email ID containing the Login ID, and the officer can now enrol himself/herself under the Officer Enrolment tab on the home page using the Login ID received in the email"
+What can the Regional Head (RH) view using the Search Member option in the Claims Portal?,"member details by entering any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What is the purpose of the Search Member option?,"UDA can view member details by entering any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name, PF Settlement"
+What are the tabs under PF Settlement?,"Received, Processed, Returned, Settled, Revoked"
+What is the function of the RH under the Received tab?,RH verify those claims and approve them
+What is the next step after a claim is approved by RH?,The pay order (in the required format) is appended with the approved claim
+What are the tabs under Pension Settlement?,"Received, Processed, Returned, Settled, Revoked"
+What is the function of the RH under the Processed tab?,The PF claims which are approved by RH are listed
+What happens to a claim if RH finds any discrepancy?,The claim is listed under the Returned tab
+What is the function of the RH under the Settled tab?,RH can also revoke such claims from that tab
+What happens to a claim if it is revoked by RH?,The claim is shown under the Revoked tab
+What are the tabs under PF Advance Claim Settlement?,"Received, Processed, Returned, Settled, Revoked"
+What is the function of the RH under the View Ledger tab?,RH can view ledger of any member who falls under his/her region by entering CMPF Account number
+What is the role of the Area General Manager (AGM)?,He/she would be required to enrol to the portal to create the password
+What functionalities are provided to the AGM after logging into the account?,"Create New Role, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement"
+What can the AGM do in the Create New Role tab?,Assign role/roles to any officer listed in the Select Officer drop down
+What happens when a role is assigned to an officer?,A mail will be sent to his/her Email ID containing the Login ID
+Can the same role be assigned twice to an officer?,No
+Can multiple roles be assigned to one officer?,Yes
+Where does the officer need to enrol himself/herself after receiving the Login ID?,Under the Officer Enrolment tab
+What is the purpose of the Officer Login under the Login tab?,AGM can login into his/her account
+What is the pre-defined Login ID provided to the AGM?,A pre-defined Login ID
+How many roles can be assigned to one officer?,Multiple roles
+What is the purpose of the Select Officer drop down?,AGM can select an officer name to assign a role
+What is the purpose of the Select Role drop down?,AGM can choose one role at a time which he/she wants to assign to the selected officer
+What happens when the AGM clicks on Assign?,The particular role is assigned to the selected officer
+What is the purpose of the Assign button?,To assign a role to an officer
+Can an officer have multiple roles?,Yes
+What is the purpose of the Officer Enrolment tab?,Officer need to enrol himself/herself
+What is the purpose of the Login tab?,AGM can login into his/her account
+What is the purpose of the Officer Login?,AGM can login into his/her account
+What is the purpose of the Login ID received in the email?,Officer need to enrol himself/herself
+Who is provided with a pre-defined Login ID?,Area General Manager (AGM)
+What is the purpose of the Create New Role tab?,AGM can assign role/roles to any officer
+What is the purpose of the Select Officer drop down in the Create New Role tab?,AGM can select an officer name to assign a role
+What is the purpose of the Select Role drop down in the Create New Role tab?,AGM can choose one role at a time which he/she wants to assign to the selected officer
+What happens when the AGM clicks on Assign in the Create New Role tab?,The particular role is assigned to the selected officer
+What is the purpose of the Assign button in the Create New Role tab?,To assign a role to an officer
+Can an officer have multiple roles in the Create New Role tab?,Yes
+What is the rule for assigning roles to officers?,"Same role cannot be assigned twice to an officer, however, multiple roles can be assigned to one officer."
+What happens after a role is assigned to an officer?,A mail will be sent to his/her Email ID containing the Login ID.
+How does an officer enrol himself/herself?,The officer need to enrol himself/herself under the Officer Enrolment tab on the home page using the login id received on the mail.
+What is PF Settlement?,"PF Settlement is a feature under which claims are received, processed, and returned."
+What are the tabs under PF Settlement?,"Received, Processed, and Returned tabs are provided under PF Settlement."
+What happens under the Received tab?,The PF claims received by the AGM from officers are listed.
+What happens under the Processed tab?,The PF claims which are approved by AGM are listed.
+What happens under the Returned tab?,"The claims returned by AGM, if he/she finds any discrepancy, are listed."
+What is Pension Settlement?,"Pension Settlement is a feature under which claims are received, processed, and returned."
+What are the tabs under Pension Settlement?,"Received, Processed, and Returned tabs are provided under Pension Settlement."
+What is PF Advance Claim Settlement?,"PF Advance Claim Settlement is a feature under which claims are received, processed, and returned."
+What are the tabs under PF Advance Claim Settlement?,"Received, Processed, and Returned tabs are provided under PF Advance Claim Settlement."
+What is the role of Unit Dealing Assistant (UDA)?,UDA has to enrol himself/herself and create a password using the Login ID received on his/her mail.
+How does UDA login into his/her account?,UDA can login into his/her account by clicking on Officer Login under the Login tab.
+What options are available after logging into the account?,"Search Member, Update Member, PF Settlement, Pension Settlement, and PF Advance Claim Settlement options are available."
+What can UDA do using the Search Member option?,"UDA can view member details by entering any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+What can UDA do using the Update Member option?,"UDA can update member details by searching member’s details based on: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+How does UDA update member details?,UDA can update the required details and clicks on Submit button to save the changes made and request is forwarded to UAO for approval/disapproval.
+What can UDA view under the Returned tab?,Claims which have been returned by any higher officer can be viewed under the Returned tab.
+How does UDA submit a new claim?,UDA can submit a new claim by clicking on the Submit New Claim button.
+What is required for submitting a new claim?,UDA needs to search and select the required details to submit a new claim.
+What is the purpose of the Officer Enrolment tab?,The officer need to enrol himself/herself under the Officer Enrolment tab on the home page using the login id received on the mail.
+What is the purpose of the Login ID?,The Login ID is required for enrolment and login purposes.
+What is the role of the AGM?,AGM verifies the claims and forwards them to the Regional Office (IDS).
+What is the purpose of the Regional Office (IDS)?,Regional Office (IDS) receives the claims forwarded by the AGM.
+What is the purpose of the UAO?,UAO approves or disapproves the changes made by the UDA.
+What is the purpose of the Submit button?,The Submit button is used to save the changes made and request is forwarded to UAO for approval/disapproval.
+What is the purpose of the Edit icon?,The Edit icon is used to update the required details.
+What is the purpose of the View icon?,The View icon is used to view the member details.
+What is the purpose of the Search button?,The Search button is used to search for member details.
+What is the purpose of the CMPF Account Number?,CMPF Account Number is used to search for member details.
+What is the purpose of the Aadhaar Number?,Aadhaar Number is used to search for member details.
+What is the purpose of the PAN?,PAN is used to search for member details.
+What is the purpose of the Mobile Number?,Mobile Number is used to search for member details.
+What is the purpose of the Name?,Name is used to search for member details.
+What is the purpose of the Officer Login?,Officer Login is used to login into the account.
+What is the purpose of the Login tab?,Login tab is used to access the login options.
+What is the process for UDA to submit a new claim?,"UDA needs to search the member by his/her valid CMPF Account Number, fill the required data, upload documents, check the declaration box and click on Submit button."
+What can UDA view under the Returned tab?,Claims which have been returned by any higher officer (in PF Settlement) or any further officer (in Pension Settlement and PF Advance Claim Settlement).
+Who is the claim forwarded to after submission of a new claim?,The claim is forwarded to the UAO.
+What is the purpose of the declaration box?,UDA checks the declaration box before clicking on Submit button.
+What details does UDA fill in the Claim submission form?,"Claimant Name, Claim Type, Broken Period Details (in PF Settlement), Pension Details, Total Pensionable Service details (in Pension Settlement), Advance Details (in PF Advance Claim Settlement), and other personal, bank and employment details of the member."
+What is the role of Unit Authorized Officer (UAO)?,"UAO has to enrol himself/herself, create a password, login into his/her account and perform various options."
+How does UAO login into his/her account?,UAO logs in by clicking on Officer Login under the Login tab.
+What options are provided after logging into the account?,"Following options are provided: Search, View Claims, etc."
+What is the process for UAO to enrol himself/herself?,UAO enrolls himself/herself and creates a password using the Login ID received on his/her mail.
+What is the purpose of uploading mandatory documents?,To support the claim submission process.
+What is the role of UDA in the claim submission process?,"UDA submits new claims, views claims, and forwards claims to UAO."
+What is the process for UDA to view claims?,"UDA views claims submitted by him under the respective tabs (PF Settlement, Pension Settlement, and PF Advance Claim Settlement)."
+What is the purpose of the Submit New Claim button?,UDA clicks on the Submit New Claim button to submit a new claim.
+What is the process for UDA to search the member?,UDA searches the member by his/her valid CMPF Account Number.
+What is the purpose of the Claim submission form?,"The form contains all personal, bank and employment details of the member."
+What is the role of UAO in the claim submission process?,UAO receives claims from UDA and performs further actions.
+What is the process for UAO to receive claims?,Claims are forwarded to UAO after submission of a new claim by UDA.
+What is the purpose of the Login tab?,To provide options for UAO to login and perform actions.
+What is the process for UAO to create a password?,UAO creates a password using the Login ID received on his/her mail.
+What is the purpose of the Officer Login option?,To allow UAO to login into his/her account.
+What is the role of CMPF Account Number?,It is used to search the member by UDA.
+What is the process for UDA to view the Returned tab?,UDA views the Returned tab to see claims which have been returned by any higher officer (in PF Settlement) or any further officer (in Pension Settlement and PF Advance Claim Settlement).
+What is the purpose of the Submit button?,UDA clicks on the Submit button to submit a new claim.
+What is the role of the declaration box?,UDA checks the declaration box before clicking on Submit button.
+What is the purpose of the Search option?,To allow UAO to search for claims.
+What is the process for UAO to view claims?,"UAO views claims submitted by him under the respective tabs (PF Settlement, Pension Settlement, and PF Advance Claim Settlement)."
+What is the role of the Claimant name?,It is a required field in the Claim submission form.
+What is the role of the Claim type?,It is a required field in the Claim submission form.
+What is the process for UDA to fill the Claim submission form?,"UDA fills all the required data like Claimant Name, Claim Type, Broken Period Details (in PF Settlement), Pension Details, Total Pensionable Service details (in Pension Settlement), Advance Details (in PF Advance Claim Settlement), and other personal, bank and employment details of the member."
+What is the role of the UAO in the claim submission process?,UAO receives claims from UDA and performs further actions.
+What is the purpose of the Pension Details?,It is a required field in the Claim submission form for Pension Settlement.
+What is the role of the Total Pensionable Service details?,It is a required field in the Claim submission form for Pension Settlement.
+What is the purpose of the Advance Details?,It is a required field in the Claim submission form for PF Advance Claim Settlement.
+What is the role of the mandatory documents?,To support the claim submission process.
+What is the process for UDA to upload mandatory documents?,UDA uploads the mandatory documents as part of the claim submission process.
+What is the purpose of the Officer Login option?,To allow UAO to login into his/her account.
+What is the role of the Login ID?,It is used to enrol UAO and create a password.
+What is the process for UAO to enrol himself/herself?,UAO enrolls himself/herself and creates a password using the Login ID received on his/her mail.
+What is the first step for a UAO to access their account?,Enrolment and creating a password using the Login ID received on their mail.
+What can a UAO do after logging into their account?,"Search Member, Approve/Disapprove Member Update, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement."
+What are the options provided in the Search Member tab?,"CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+What can a UAO view using the Search Member option?,Member details.
+What are the tabs available in the Approve/Disapprove Member Update option?,"Received, Approved, Returned."
+What can a UAO do in the Received tab under Approve/Disapprove Member Update?,Approve a particular request or return to the UDA.
+What can a UAO view in the Approved tab under Approve/Disapprove Member Update?,The requests approved by the UAO.
+What can a UAO view in the Returned tab under Approve/Disapprove Member Update?,The requests which are returned by the UAO or returned to the UDA.
+What are the tabs available in the PF Settlement option?,"Received, Processed, Returned."
+What can a UAO do in the Received tab under PF Settlement?,Approve a particular claim or return to the UDA officer.
+What can a UAO view in the Processed tab under PF Settlement?,The PF Claims approved by the UAO.
+What can a UAO view in the Returned tab under PF Settlement?,The PF Claims which are returned to the UAO from further officers or claims returned by the UAO.
+What are the functionalities present in the account of an AAO after logging in?,"Search Member, Approve/Disapprove Member Update, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement."
+What can an AAO do using the Search Member option?,View member details.
+What are the options provided in the Search Member tab for an AAO?,"CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+What can an AAO view in the Received tab under Approve/Disapprove Member Update?,All the Update Member details requests forwarded to the AAO.
+What can an AAO do in the Received tab under Approve/Disapprove Member Update?,Approve a particular request.
+What are the tabs available in the PF Settlement option for an AAO?,"Received, Processed, Returned."
+What can an AAO do in the Received tab under PF Settlement?,Approve a particular claim or return to the UDA officer.
+What can an AAO view in the Processed tab under PF Settlement?,The PF Claims approved by the AAO.
+What can an AAO view in the Returned tab under PF Settlement?,The PF Claims which are returned to the AAO from further officers or claims returned by the AAO.
+Is the functionality in PF Advance Claim Settlement the same as in PF settlement?,Yes.
+Is the functionality in Pension Settlement the same as in PF settlement?,Yes.
+What is the first step for an AAO to access their account?,Enrolment and creating a password using the Login ID received on their email.
+What are the options for a UAO to view member details?,"CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+What are the options for an AAO to view member details?,"CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name."
+Can a UAO return a request to the UDA?,Yes.
+Can an AAO return a request to the UDA?,No.
+Can a UAO approve a claim in the Received tab under PF Settlement?,Yes.
+Can an AAO approve a claim in the Received tab under PF Settlement?,Yes.
+Can a UAO return a claim to the UDA officer?,Yes.
+Can an AAO return a claim to the UDA officer?,Yes.
+What is the role of a UAO?,"To enrol themselves/herself, create a password, and perform various functionalities such as Search Member, Approve/Disapprove Member Update, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement."
+What is the role of an AAO?,"To enrol themselves/herself, create a password, and perform various functionalities such as Search Member, Approve/Disapprove Member Update, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement."
+How does a UAO login into their account?,By clicking on Officer Login under the Login tab.
+How does an AAO login into their account?,By clicking on Officer Login under the Login tab.
+What is the purpose of the Login tab?,To allow UAOs and AAOs to login into their accounts.
+What is the purpose of the Officer Login option?,To allow UAOs and AAOs to login into their accounts.
+What is the purpose of the Search Member option?,To view member details.
+What is the purpose of the Approve/Disapprove Member Update option?,To approve or disapprove requests for updating member details.
+What is the purpose of the PF Settlement option?,To settle PF claims.
+What is the purpose of the Pension Settlement option?,To settle pension claims.
+What is the purpose of the PF and Pension Settlement option?,To settle both PF and pension claims.
+What is the purpose of the PF Advance Claim Settlement option?,To settle PF advance claims.
+What is shown in the Received tab of the Approve/Disapprove Member Update tab?,requests received for updating details of member
+What can the AAO do in the Approve/Disapprove Member Update tab?,approve a particular request or return to the UAO
+Where are the requests approved by the AAO shown?,Under the Approved tab
+Where are the requests which are returned by AAO shown?,Under the Returned tab
+What is shown in the Received tab of the PF Settlement?,all the PF Claims forwarded to AAO
+What can the AAO do in the PF Settlement?,approve a particular claim or return to the UAO officer
+Where are the PF Claims approved by the AAO shown?,Under the Processed tab
+Where are the PF Claims which are returned to AAO from further officers or claims returned by AAO shown?,Under the Returned tab
+What is shown in the Received for Confirmation tab of the PF Settlement?,all the PF claims which are sent by Cashier for confirmation of PF settlement payment
+Where are the claims which have been confirmed for payment by AAO shown?,Under the Confirmed tab
+What is the same functionality followed in Pension Settlement?,The same functionality is followed as in PF settlement
+What is the same functionality followed in PF Advance Claim Settlement?,The same functionality is followed as in PF settlement
+How does the In-charge Diary Section (IDS) enrol himself/herself?,enrol himself/herself and create a password using the Login ID received on his/her email
+What functionalities are available after logging into the account?,"Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, Advance PF Settlement"
+"Using Search Member tab, how can IDS search for a member?","IDS can search for member by entering any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What is shown in the Received tab of the PF Settlement under the Search Member tab?,all the PF Claims forwarded to IDS from either AAO or AGM
+What can IDS do in the PF Settlement under the Search Member tab?,"select single claim or multiple claims and a RODA from the Select RODA dropdown, After clicking on Assign button the particular PF Claim/Claims is/are assigned to the selected RODA"
+Where are the PF Claims assigned by the IDS to a RODA shown?,Under the Processed tab
+What is the same functionality followed in Pension Settlement under the Search Member tab?,The same functionality is followed as in PF settlement
+What is the same functionality followed in PF Advance Claim Settlement under the Search Member tab?,The same functionality is followed as in PF settlement
+What is shown in the Received tab of the Approve/Disapprove Member Update tab for a RODA?,requests received for updating details of member
+What can a RODA do in the Approve/Disapprove Member Update tab?,approve a particular request or return to the UAO
+Where are the requests approved by a RODA shown?,Under the Approved tab
+Where are the requests which are returned by a RODA shown?,Under the Returned tab
+What is the role of a Regional Office Dealing Assistant (RODA)?,Regional Office Dealing Assistant (RODA)
+What is shown in the Received tab of the PF Settlement for a RODA?,all the PF Claims forwarded to IDS from either AAO or AGM
+What can a RODA do in the PF Settlement?,"select single claim or multiple claims and a RODA from the Select RODA dropdown, After clicking on Assign button the particular PF Claim/Claims is/are assigned to the selected RODA"
+Where are the PF Claims assigned by a RODA shown?,Under the Processed tab
+What is the role of an In-charge Diary Section (IDS)?,In-charge Diary Section (IDS)
+What is shown in the Received tab of the PF Settlement under the Search Member tab for an IDS?,all the PF Claims forwarded to IDS from either AAO or AGM
+What can an IDS do in the PF Settlement under the Search Member tab?,"select single claim or multiple claims and a RODA from the Select RODA dropdown, After clicking on Assign button the particular PF Claim/Claims is/are assigned to the selected RODA"
+Where are the PF Claims assigned by an IDS to a RODA shown?,Under the Processed tab
+What is the role of an AAO in the Approve/Disapprove Member Update tab?,AAO
+What is shown in the Received tab of the Approve/Disapprove Member Update tab for an AAO?,requests received for updating details of member
+What can an AAO do in the Approve/Disapprove Member Update tab?,approve a particular request or return to the UAO
+Where are the requests approved by an AAO shown?,Under the Approved tab
+Where are the requests which are returned by an AAO shown?,Under the Returned tab
+What is the name of the role that can enrol themselves and create a password using the Login ID received on their mail?,Regional Office Dealing Assistant (RODA)
+What options are provisioned after logging into the RODA account?,"Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim settlement, View/Update Ledger, Search Member"
+How can IDS search for any member to view the details?,"IDS can search for member by entering any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What are the tabs under the PF Settlement section?,"Received, Processed, Returned"
+What is shown under the Received tab in the PF Settlement section?,All the PF Claims assigned to RODA
+What is the purpose of clicking the Claim Id in the PF Settlement section?,"Claim submission form opens, where RODA enters the current year’s Rate of Interest and Net Amount Payable is calculated automatically"
+What is generated by clicking on Preview DPO in the PF Settlement section?,Draft Pay Order
+What is the next step after generating the Draft Pay Order in the PF Settlement section?,"RODA clicks on Assign button, selects the Section In-charge and clicks on OK to forward the claim to the selected Section In-charge"
+What is shown under the Received tab in the Pension Settlement section?,All the Pension Claims assigned to RODA
+What is the purpose of clicking the Claim Id in the Pension Settlement section?,"Claim submission form opens, where RODA verifies all the details and generates the PENSET"
+What is generated by clicking on Generate PENSET button in the Pension Settlement section?,PENSET
+What is the next step after generating the PENSET in the Pension Settlement section?,"RODA clicks on Assign button, selects the Section In-charge and clicks on OK button to forward the claim to the selected Section In-charge"
+What is shown under the Received tab in the PF Advance Claim Settlement section?,All the PF Advance Claims assigned to RODA
+What is the purpose of clicking the Claim Id in the PF Advance Claim Settlement section?,"Claim submission form opens, where RODA verifies all the details"
+What is the purpose of the Search Member tab?,IDS can search for any member to view the details
+What can IDS search for member by entering in the Search Member tab?,"CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What is the functionality followed in PF settlement?,The same functionality is followed as in PF settlement
+What is the functionality followed in PF Advance Claim settlement?,The same functionality is followed as in PF settlement
+What is the name of the tab under the Login section?,Officer Login
+What is the purpose of clicking on Officer Login under the Login tab?,RODA can login into his/her account
+What can RODA do after logging into the account?,"RODA can access the options provisioned, such as Search Member, PF Settlement, Pension Settlement, etc."
+What is the purpose of the View/Update Ledger option?,RODA can view and update the ledger
+What is shown under the Processed tab in the PF Settlement section?,The PF Claims approved by the RODA
+What is shown under the Processed tab in the Pension Settlement section?,The Pension Claims approved by the RODA
+What is shown under the Returned tab in the PF Settlement section?,The PF Claims which are returned by RODA to SI
+What is shown under the Returned tab in the Pension Settlement section?,The Pension Claims which are returned by RODA to SI
+What is the purpose of clicking on Preview PENSET button in the Pension Settlement section?,RODA generates the PENSET
+What is the purpose of clicking on Generate PENSET button in the Pension Settlement section?,RODA generates the PENSET
+What is the purpose of clicking on Preview DPO button in the PF Settlement section?,RODA generates the Draft Pay Order
+What is the next step after generating the Draft Pay Order in the PF Settlement section?,"RODA clicks on Assign button, selects the Section In-charge and clicks on OK to forward the claim to the selected Section In-charge"
+What is the next step after generating the PENSET in the Pension Settlement section?,"RODA clicks on Assign button, selects the Section In-charge and clicks on OK button to forward the claim to the selected Section In-charge"
+What is the relationship between the RODA and the SI officer?,RODA can return a claim to the SI officer if he/she finds any discrepancy
+What is the purpose of the Assign button in the PF Settlement and Pension Settlement sections?,"RODA clicks on Assign button, selects the Section In-charge and clicks on OK to forward the claim to the selected Section In-charge"
+What is the role of the Section In-charge?,The Section In-charge receives the claim from the RODA
+Who is responsible for verifying the claim submission form?,RODA
+What is the purpose of the Preview DPO button?,To generate a draft of the DPO
+Who is selected by RODA to forward the claim?,Section In-charge
+What is the function of the Assign button?,To forward the claim to the selected Section In-charge
+How does RODA verify a particular claim?,By clicking on the Claim Id
+What is the purpose of the Update button in View/Update Ledger?,To update the PF Ledger of the members
+Who can add a new row to insert the missing year’s ledger or current year’s ledger?,DA
+What is the function of the Save button in View/Update Ledger?,To save the changes
+How does a Section In-charge enrol himself/herself?,Using the Login ID received on his/her email
+What options are available after logging into the Section In-charge account?,"Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim Settlement, View Ledger"
+How can a Section In-charge search for a member?,"By any of the following: CMPF Account Number, Aadhaar Number, PAN, Mobile Number, Name"
+What is shown under the Received tab in PF Settlement?,PF Claim/Claims forwarded by RODA to SI
+What can a Section In-charge do with a claim under the Received tab?,"Return the claim to BO/RH with Remarks, transfer the claim to another SI, forward the claim to BO/RH"
+What is shown under the Processed tab in PF Settlement?,All the PF Claims which are forwarded to BO/RH
+What is shown under the Returned tab in PF Settlement?,All the PF Claims which are returned to SI or returned by SI
+What is the same functionality followed in Pension Settlement as in PF settlement?,The same functionality is followed as in PF settlement
+How can a Section In-charge view the ledger of a member?,By entering the CMPF account number
+What is the function of the Login tab?,To login into the account
+What is the function of the Officer Login under the Login tab?,To login into the account
+Who can enrol himself/herself and create a password?,Section In-charge (SI)
+What is shown under the Processed tab in Pension Settlement?,All the Pension Claims which are forwarded to BO/RH
+What is shown under the Returned tab in Pension Settlement?,All the Pension Claims which are returned to SI or returned by SI
+What is the same functionality followed in PF Advance Claim Settlement as in PF settlement?,The same functionality is followed as in PF settlement
+Who can view the ledger details of a member?,Officer
+How does a DA update the PF Ledger of the members?,By clicking on the Update button
+What is the purpose of the Assign button in PF Advance Claim Settlement?,To forward the claim to the selected Section In-charge
+Who is responsible for generating the DPO?,RODA
+What is the purpose of the Preview DPO button in PF Advance Claim Settlement?,To generate a draft of the DPO
+What is the purpose of the Generate DPO button in PF Advance Claim Settlement?,To generate the DPO
+Who can view the ledger of any member who falls under his/her region?,Section In-charge (SI)
+What is the function of the View Ledger tab?,To view the ledger of any member who falls under his/her region
+Who can add a new row to insert the missing year’s ledger or current year’s ledger in View/Update Ledger?,DA
+What is the purpose of the Update button in View/Update Ledger?,To update the PF Ledger of the members
+Who can update the PF Ledger of the members?,DA
+What is the function of the Save button in View/Update Ledger?,To save the changes
+Who can view the ledger details of a member in View/Update Ledger?,Officer
+What is the functionality followed in PF Advance Claim Settlement?,The same functionality is followed as seen in case of PF settlement.
+Who can view the ledger of any member who falls under his/her region by entering CMPF account number?,SI and BO
+What is the task performed by BO in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+How can BO search for a member?,"Using Search Member tab by entering CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What can BO do with a claim in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What is the task performed by CA in the Approved by BO/RH tab?,CA can view the PF Claim and can forward it to
+How can CA login into his/her account?,By clicking on Officer Login under the Login tab after enrolment.
+What options are available after logging into the account for BO?,"Search Member, PF Settlement, Pension Settlement, PF and Pension Settlement, PF Advance Claim settlement, and View Ledger."
+How can IDS search for a member?,"IDS can search for member by entering any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What is the functionality followed in Pension Settlement?,The same functionality is followed as in PF settlement.
+What can BO do with a claim in the Returned tab?,The PF Claims Returned by BO to RODA/AAO are shown.
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+How can BO return a claim to AAO?,He/she can return the claim to AAO if he/she finds any discrepancy.
+What can BO do with a claim in the Approved by BO/RH tab?,View the PF Claim and forward it to
+What is the task performed by BO in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What is the task performed by BO in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+What can BO do with a claim in the Returned tab?,The PF Claims Returned by BO to RODA/AAO are shown.
+What is the task performed by BO in the Approved by BO/RH tab?,View the PF Claim and forward it to
+How can BO search for a member?,"Using Search Member tab by entering CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+What is the task performed by CA in the Approved by BO/RH tab?,CA can view the PF Claim and can forward it to
+What can CA do with a claim in the Approved by BO/RH tab?,View the PF Claim and forward it to
+What is the task performed by BO in the Processed tab?,The claims Approved/Processed by the BO are shown.
+How can CA login into his/her account?,By clicking on Officer Login under the Login tab after enrolment.
+What options are available after logging into the account for CA?,"Search Member, PF Settlement, PF and Pension Settlement, PF Advance Claim Settlement, and View Ledger."
+What is the task performed by BO in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+What can BO do with a claim in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+What is the task performed by BO in the Approved by BO/RH tab?,View the PF Claim and forward it to
+How can IDS search for a member?,"IDS can search for member by entering any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What is the task performed by BO in the Returned tab?,The PF Claims Returned by BO to RODA/AAO are shown.
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+What can BO do with a claim in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+What is the task performed by BO in the Processed tab?,The claims Approved/Processed by the BO are shown.
+How can CA search for a member?,"Using Search Member tab by entering CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What is the task performed by BO in the Approved by BO/RH tab?,View the PF Claim and forward it to
+What is the task performed by CA in the Approved by BO/RH tab?,CA can view the PF Claim and can forward it to
+What can CA do with a claim in the Approved by BO/RH tab?,View the PF Claim and forward it to
+What is the task performed by BO in the Returned tab?,The PF Claims Returned by BO to RODA/AAO are shown.
+What can BO do with a claim in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+What is the task performed by BO in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+How can BO search for a member?,"Using Search Member tab by entering CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, or Name."
+What is the task performed by BO in the Approved by BO/RH tab?,View the PF Claim and forward it to
+What is the task performed by BO in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What can CA do with a claim in the Approved by BO/RH tab?,View the PF Claim and forward it to
+How can BO return a claim to RODA?,He/she can return the claim to RODA if he/she finds any discrepancy.
+What is the task performed by CA in the Search Member tab?,CA can search for any member to view the details.
+What is the task performed by BO in the Received tab?,"He/she can return the claim to AAO if he/she finds any discrepancy, return the claim to RODA if he/she finds any discrepancy, forward the claim to RH, or approve the claim."
+What can BO do with a claim in the Processed tab?,The claims Approved/Processed by the BO are shown.
+What is the task performed by CA in the Approved by BO/RH tab?,CA can view the PF Claim and can forward it to
+What can IDS search for to view a member's details?,"Any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, Name, PF Settlement"
+What is the purpose of the Approved by BO/RH tab?,To show all the PF Claims forwarded by BO/RH to Cashier
+What can CA do with a PF Claim in the Approved by BO/RH tab?,View the PF Claim and forward it to the AAO for confirmation or return it to RODA
+Where are all the claims which have been forwarded to AAO for confirmation listed?,Under the Sent for Confirmation tab
+What are all the claims which have been confirmed by AAO for payment shown under?,Confirmed by AAO tab
+What does the Ready for Payment tab list?,Claims that are marked as “Ready for Payment” by the CA after the claim has been confirmed by AAO
+Where are the claims returned by the cashier shown?,Under the Returned tab
+What is the same functionality followed as in PF settlement for?,PF Advance Claim Settlement
+In what tab can the Cashier view ledger of any member?,View Ledger tab
+How does In-charge Pension Disbursement Section (IPDS) enrol himself/herself?,Using the Login ID received on his/her mail and creating a password
+What options are available after logging into the account?,"Search Member, Pension Settlement, PF and Pension Settlement, View Ledger, Search Member"
+"Using Search Member tab, what can IPDS search for?",Any member to view the details
+What can IDS search for to view a member's details?,"Any of the following: CMPFO Account Number, Aadhaar Number, PAN, Mobile Number, Name, PF Settlement"
+What is the purpose of the Approved by BO/RH tab in Pension Settlement?,To show all the Pension Claims forwarded by BO/RH to IPDS
+What can IPDS do with a Pension Claim in the Approved by BO/RH tab?,View the Pension Claim and forward it to the AAO for confirmation or return it to RODA
+Where are all the claims which have been forwarded to AAO for confirmation listed in Pension Settlement?,Under the Sent for Confirmation tab
+What are all the claims which have been confirmed by AAO for payment shown under in Pension Settlement?,Confirmed by AAO tab
+What does the Ready for Payment tab list in Pension Settlement?,Claims that are marked as “Ready for Payment” by the IPDS after the claim has been confirmed by AAO
+Where are the claims returned by the IPDS or returned to IPDS shown?,Under the Returned tab
+In what tab can IPDS view ledger of any member?,View Ledger tab
+What is the purpose of the View Ledger tab?,To view ledger of any member who falls under his/her region
+What is the purpose of the Login tab?,To login into the account
+What is the purpose of the Officer Login option?,To login into the account
+What is the purpose of the Search Member tab?,To search for any member to view the details
+What can CA do with a claim in the Ready for Payment tab?,Mark it as “Ready for Payment”
+What can IPDS do with a claim in the Ready for Payment tab?,Mark it as “Ready for Payment”
+What is the purpose of the PF Settlement option?,To settle PF claims
+What is the purpose of the Pension Settlement option?,To settle pension claims
+What is the purpose of the PF and Pension Settlement option?,To settle both PF and pension claims
+What is the purpose of the View Ledger option?,To view ledger of any member
+What is the purpose of the Search Member option?,To search for any member to view the details
+What is the purpose of the Officer Login option?,To login into the account
+What is the purpose of the Login tab?,To login into the account
+What is the purpose of the View Ledger tab?,To view ledger of any member who falls under his/her region
+What is the purpose of the Returned tab?,To show the claims returned by the cashier or returned to IPDS
+What is the purpose of the Confirmed by AAO tab?,To show all the claims which have been confirmed by AAO for payment
+What is the purpose of the Sent for Confirmation tab?,To show all the claims which have been forwarded to AAO for confirmation
+What is the purpose of the Approved by BO/RH tab?,To show all the PF Claims forwarded by BO/RH to Cashier
+What is the purpose of the PF Advance Claim Settlement?,To settle PF advance claims
+What is the purpose of the Pension Settlement?,To settle pension claims
+What is the purpose of the PF and Pension Settlement?,To settle both PF and pension claims
+What happens after the claim has been confirmed by AAO?,e IPDS
+Where are the claims returned by the IPDS or returned to IPDS shown?,Under the Returned tab
+What can be viewed in the View Ledger tab?,Ledger
+Who can view the ledger of any member in their region?,IPDS
+What is required to view the ledger of a member in the View Ledger tab?,CMPF Account number
+What is the purpose of the AAO in the context?,To confirm claims
+What is the role of IPDS in the context?,To view ledgers and handle claims
+Where can IPDS view the ledger of a member?,In the View Ledger tab
+What happens to claims that are returned by the IPDS or returned to IPDS?,They are shown under the Returned tab
+What is the function of the Returned tab?,To show claims returned by the IPDS or returned to IPDS
+What is the role of the View Ledger tab?,To allow IPDS to view ledgers
+What is the purpose of the CMPF Account number in the context?,To identify members for ledger viewing
+Who can use the CMPF Account number to view a member's ledger?,IPDS
+What is the relationship between IPDS and the View Ledger tab?,IPDS can view ledgers in the View Ledger tab
+What happens to a claim after it has been confirmed by AAO?,It is handled by IPDS
+What is the role of the AAO in the context?,To confirm claims
+What is the function of the View Ledger tab?,To allow IPDS to view ledgers
+Who can view the ledger of a member in their region?,IPDS
+What is required to view the ledger of a member in the View Ledger tab?,CMPF Account number
+What is the purpose of the Returned tab?,To show claims returned by the IPDS or returned to IPDS
+What is the role of IPDS in the context?,To view ledgers and handle claims
+What can be viewed in the View Ledger tab?,Ledger
+Where can IPDS view the ledger of a member?,In the View Ledger tab
+What happens to claims that are returned by the IPDS or returned to IPDS?,They are shown under the Returned tab
+What is the relationship between IPDS and the View Ledger tab?,IPDS can view ledgers in the View Ledger tab
+What is the function of the Returned tab?,To show claims returned by the IPDS or returned to IPDS
+Who can use the CMPF Account number to view a member's ledger?,IPDS
+What is the purpose of the CMPF Account number in the context?,To identify members for ledger viewing
+What is the role of the AAO in the context?,To confirm claims
+What happens after the claim has been confirmed by AAO?,e IPDS
+What is the role of the View Ledger tab?,To allow IPDS to view ledgers
+Where are the claims returned by the IPDS or returned to IPDS shown?,Under the Returned tab
+What is the purpose of the View Ledger tab?,To allow IPDS to view ledgers
+What is required to view the ledger of a member in the View Ledger tab?,CMPF Account number
+Who can view the ledger of a member in their region?,IPDS
+What is the relationship between IPDS and the View Ledger tab?,IPDS can view ledgers in the View Ledger tab
+What is the function of the Returned tab?,To show claims returned by the IPDS or returned to IPDS
